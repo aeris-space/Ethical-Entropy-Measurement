@@ -5,12 +5,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 **First empirical measurement of ethical entropy in value-aligned AI systems, providing quantitative support for the Second Law of Intelligence.**
-## Contact
 
-**Samih Fadli, Ph.D.**  
-Aeris Space Laboratory, Colorado Springs, CO, USA  
-Capitol Technology University, Laurel, MD, USA  
-Email: [sam.fadli@aeris.space](mailto:sam.fadli@aeris.space)
+
 ---
 
 ## Overview
