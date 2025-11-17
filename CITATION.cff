@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Fadli"
+    given-names: "Samih"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Aeris Space Laboratory; Capitol Technology University"
+    email: "sam.fadli@aeris.space"
+title: "Measuring Ethical Entropy for Advanced AI Systems"
+version: 1.0.0
+doi: 10.1038/your-doi-here
+date-released: 2025-11-17
+url: "https://github.com/yourusername/ethical-entropy-measurement"
+repository-code: "https://github.com/yourusername/ethical-entropy-measurement"
+keywords:
+  - ethical entropy
+  - AI alignment
+  - value drift
+  - large language models
+  - behavioral probes
+  - goal classification
+  - alignment monitoring
+  - AI safety
+  - thermodynamic control
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Fadli"
+      given-names: "Samih"
+  title: "Measuring Ethical Entropy for Advanced AI Systems"
+  journal: "Nature Machine Intelligence"
+  year: 2025
+  publisher: "Nature Publishing Group"
+  doi: 10.1038/your-doi-here

@@ -1,0 +1,9 @@
+model,model_type,entropy_mean,entropy_std,drift_rate_mean,drift_rate_std,gamma_eff_mean,gamma_eff_std,n_trials
+Llama 3 70B,base,0.70,0.04,0.013,0.002,NA,NA,20
+Llama 3 70B,tuned,0.12,0.03,0.000,0.001,0.013,0.002,20
+GPT-4,base,0.70,0.04,0.013,0.002,NA,NA,20
+GPT-4,tuned,0.12,0.03,0.001,0.001,0.012,0.002,20
+Claude 3.5,base,0.70,0.04,0.012,0.002,NA,NA,20
+Claude 3.5,tuned,0.12,0.03,0.000,0.001,0.012,0.002,20
+Gemini 1.5,base,0.70,0.04,0.013,0.002,NA,NA,20
+Gemini 1.5,tuned,0.12,0.03,0.000,0.001,0.013,0.002,20
