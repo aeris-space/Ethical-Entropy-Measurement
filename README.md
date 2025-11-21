@@ -11,7 +11,7 @@
 
 ## Overview
 
-This repository contains the complete implementation, data, and analysis code for our paper "Measuring Ethical Entropy for Advanced AI Systems" published in Nature Machine Intelligence (2025).
+This repository contains the complete implementation, data, and analysis code for our paper "Measuring Ethical Entropy for Advanced AI Systems", by Samih Fadli, Ph.D., submitted toNature Machine Intelligence (2025).
 
 We present the first empirical framework to measure **ethical entropy** in large language models (LLMs), demonstrating that:
 
