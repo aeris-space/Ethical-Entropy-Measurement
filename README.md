@@ -1,6 +1,6 @@
 # Measuring Ethical Entropy for Advanced AI Systems
 
-[![npj Artificial Intelligence](https://img.shields.io/badge/npj%20Artificial%20Intelligence-under%20review-blueviolet)](https://www.nature.com/npjai/)
+![Author: Samih Fadli, Ph.D.](https://img.shields.io/badge/Author-Samih%20Fadli%2C%20Ph.D.-white?labelColor=red)
 [![Paper](https://img.shields.io/badge/Paper-Nature%20Machine%20Intelligence-blue)](https://doi.org/your-doi-here)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
