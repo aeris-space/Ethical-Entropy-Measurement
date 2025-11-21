@@ -10,6 +10,9 @@
 This repository contains the complete implementation, data, and analysis code for our paper "Measuring Ethical Entropy for Advanced AI Systems", by Samih Fadli, Ph.D., submitted toNature Machine Intelligence (2025).
 
 ---
+## Abstract
+
+Large language model safety is usually assessed with static benchmarks, but key failures are dynamic: value drift under distribution shift, jailbreak attacks, and slow degradation of alignment in deployment. Building on a recent Second Law of Intelligence that treats ethical entropy as a state variable which tends to increase unless countered by alignment work, we make this framework operational for large language models. We define a five-way behavioral taxonomy, train a classifier to estimate ethical entropy S(t) from model transcripts, and measure entropy dynamics for base and instruction-tuned variants of four frontier models across stress tests. Base models show sustained entropy growth, while tuned variants suppress drift and reduce ethical entropy by roughly eighty percent. From these trajectories we estimate effective alignment work γ_eff and embed S(t) and γ_eff in a monitoring pipeline that raises alerts when entropy drift exceeds a stability threshold, enabling run-time oversight of value drift.
 
 ## Overview
 
