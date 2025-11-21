@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 **First empirical measurement of ethical entropy in value-aligned AI systems, providing quantitative support for the Second Law of Intelligence.**
+
 This repository contains the complete implementation, data, and analysis code for our paper "Measuring Ethical Entropy for Advanced AI Systems", by Samih Fadli, Ph.D., submitted toNature Machine Intelligence (2025).
 
 ---
